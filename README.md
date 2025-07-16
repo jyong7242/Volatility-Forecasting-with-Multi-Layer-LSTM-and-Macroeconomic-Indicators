@@ -45,3 +45,10 @@ LSTM models demonstrate improved validation and test MSE when macroeconomic indi
 | HAR                | 2.05           | 0.23     |
 | LSTM (rv5 only)    | ~1.14          | ~0.50    |
 | LSTM + VIX + Rates | ~0.76          | ~0.63    |
+
+
+## 🙋 Author
+
+**Jinyan Yong**
+
+ Master of Finance – McMaster University
